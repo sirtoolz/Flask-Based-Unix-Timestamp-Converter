@@ -18,11 +18,11 @@ A simple web app that converts Unix timestamps into **human-readable UTC and loc
 
 ---
 
-## Live Demo
+## Live Website
 
 Check it out here:  
 **[Live App](https://unix-timestamp-converter.onrender.com/)**  
-*(Replace this with your actual Render URL after deployment)*
+
 
 ---
 
