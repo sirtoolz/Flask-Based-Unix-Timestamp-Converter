@@ -31,5 +31,5 @@ Check it out here:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/timestamp-converter.git
+git clone https://github.com/sirtoolz/Unix-Timestamp-Converter.git
 cd timestamp-converter
